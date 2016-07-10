@@ -1,0 +1,108 @@
+accuracy initial : 438.000000
+actual_ones_i : 167.000000
+pred_ones : 591.000000
+
+accuracy final : 835.000000
+actual_ones_i : 167.000000
+pred_ones : 0.000000
+***************************************
+
+accuracy initial : 835.000000
+actual_ones_i : 167.000000
+pred_ones : 0.000000
+
+accuracy final : 853.000000
+actual_ones_i : 167.000000
+pred_ones : 26.000000
+***************************************
+
+accuracy initial : 843.000000
+actual_ones_i : 167.000000
+pred_ones : 28.000000
+
+accuracy final : 864.000000
+actual_ones_i : 167.000000
+pred_ones : 35.000000
+***************************************
+
+accuracy initial : 845.000000
+actual_ones_i : 167.000000
+pred_ones : 40.000000
+
+accuracy final : 941.000000
+actual_ones_i : 167.000000
+pred_ones : 186.000000
+***************************************
+
+accuracy initial : 833.000000
+actual_ones_i : 167.000000
+pred_ones : 234.000000
+
+accuracy final : 972.000000
+actual_ones_i : 167.000000
+pred_ones : 159.000000
+***************************************
+
+accuracy initial : 889.000000
+actual_ones_i : 167.000000
+pred_ones : 196.000000
+
+accuracy final : 945.000000
+actual_ones_i : 167.000000
+pred_ones : 176.000000
+***************************************
+
+accuracy initial : 856.000000
+actual_ones_i : 167.000000
+pred_ones : 249.000000
+
+accuracy final : 983.000000
+actual_ones_i : 167.000000
+pred_ones : 148.000000
+***************************************
+
+accuracy initial : 914.000000
+actual_ones_i : 167.000000
+pred_ones : 191.000000
+
+accuracy final : 983.000000
+actual_ones_i : 167.000000
+pred_ones : 150.000000
+***************************************
+
+accuracy initial : 929.000000
+actual_ones_i : 167.000000
+pred_ones : 190.000000
+
+accuracy final : 991.000000
+actual_ones_i : 167.000000
+pred_ones : 174.000000
+***************************************
+
+accuracy initial : 921.000000
+actual_ones_i : 167.000000
+pred_ones : 222.000000
+
+accuracy final : 998.000000
+actual_ones_i : 167.000000
+pred_ones : 169.000000
+***************************************
+
+accuracy initial : 943.000000
+actual_ones_i : 167.000000
+pred_ones : 216.000000
+
+accuracy final : 1000.000000
+actual_ones_i : 167.000000
+pred_ones : 165.000000
+***************************************
+
+accuracy initial : 955.000000
+actual_ones_i : 167.000000
+pred_ones : 184.000000
+
+accuracy final : 999.000000
+actual_ones_i : 167.000000
+pred_ones : 168.000000
+***************************************
+

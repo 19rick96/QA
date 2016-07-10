@@ -1,0 +1,14 @@
+initial entropy score : 0.679162
+final entropy score : 0.606265
+***************************************
+
+TEST VALUE : entropy score : 0.560371
+***************************************
+
+initial entropy score : 0.124310
+final entropy score : 0.279537
+***************************************
+
+TEST VALUE : entropy score : 0.553751
+***************************************
+
